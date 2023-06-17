@@ -70,3 +70,5 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem 'faker', '~> 3.2' #Gema que añadi yo mipan su su sus

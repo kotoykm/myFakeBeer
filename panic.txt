@@ -1,0 +1,3 @@
+- Seguir a partir de las 20:56
+- Dar permisos de ejecución con la shell de ubuntu al ejecutable creado
+- Seguir una pletora de pasos, o no se, mi cerebro se rindió a partir de este punto pipipipi
